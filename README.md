@@ -9,15 +9,18 @@
 
 ## 🌟 Highlight Project – Buy Me a Chai ☕  
 
-![Project Preview]([https://your-image-link-here](https://drive.google.com/file/d/18mrzI7V0Fkno0GTiPu5xku3qOAqEpjOU/view?usp=sharing))  
+[![Buy Me a Chai Preview](https://drive.google.com/uc?export=view&id=18mrzI7V0Fkno0GTiPu5xku3qOAqEpjOU)](https://get-me-a-chai-sepia.vercel.app/)  
 
 A modern, minimal, and responsive donation platform inspired by *CodeWithHarry’s "Buy Me a Chai"* tutorial — but upgraded with my own twist, features, and design.  
 
 > **Stack:** Next.js, TailwindCSS, MongoDB, NextAuth.js  
 > **Features:** Authentication, real-time donations, responsive UI, secure backend  
-> **Role:** Complete development — from front to backend integration  
+> **Role:** Complete development — from frontend to backend integration  
 
-🔗 **[Live Demo]([#](https://get-me-a-chai-sepia.vercel.app/))**   
+🔗 **[Live Demo](https://get-me-a-chai-sepia.vercel.app/)** | 💻 **[Source Code](#)**  
+
+📱 **Scan to Visit:**  
+![QR Code](https://drive.google.com/uc?export=view&id=1c9xtSgA8c5Ngkic-QmlVDmTUym3cox_8)  
 
 ---
 
@@ -57,7 +60,6 @@ A modern, minimal, and responsive donation platform inspired by *CodeWithHarry�
 ### 🔐 Password Manager (MERN Stack)  
 A secure and sleek password manager with authentication & encryption.  
 > **Stack:** MongoDB, Express, React, Node.js, Tailwind, NextAuth.js  
-> Inspired by CodeWithHarry's "Buy Me a Chai" — but took it up a notch.  
 
 **🔗 [View Project](#)** | **💻 [Source Code](#)**  
 
