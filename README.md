@@ -9,7 +9,7 @@
 
 ## 🌟 Highlight Project – Buy Me a Chai ☕  
 
-![Project Preview](https://your-image-link-here)  
+![Project Preview]([https://your-image-link-here](https://drive.google.com/file/d/18mrzI7V0Fkno0GTiPu5xku3qOAqEpjOU/view?usp=sharing))  
 
 A modern, minimal, and responsive donation platform inspired by *CodeWithHarry’s "Buy Me a Chai"* tutorial — but upgraded with my own twist, features, and design.  
 
@@ -17,7 +17,7 @@ A modern, minimal, and responsive donation platform inspired by *CodeWithHarry�
 > **Features:** Authentication, real-time donations, responsive UI, secure backend  
 > **Role:** Complete development — from front to backend integration  
 
-🔗 **[Live Demo](#)** | 💻 **[Source Code](#)**  
+🔗 **[Live Demo]([#](https://get-me-a-chai-sepia.vercel.app/))**   
 
 ---
 
