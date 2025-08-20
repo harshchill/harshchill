@@ -11,8 +11,6 @@
 🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
 
 > ⚡ *“Jack of all trades”*
-> ![Profile Views](https://komarev.com/ghpvc/?username=harshchill&label=Profile%20Views&color=blue&style=for-the-badge)
- 
 
 ---
 
