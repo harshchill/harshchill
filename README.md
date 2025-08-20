@@ -10,7 +10,7 @@
 💡 Passionate about building scalable apps, solving problems, and creating products people love.  
 🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
 
-> ⚡ *“I don’t push to main on Fridays… unless it’s production-ready 😉”*  
+> ⚡ *“Jack of all trades”*  
 
 ---
 
@@ -94,13 +94,7 @@ A sleek password manager with authentication & encryption.
 
 ---
 
-## 🏅 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshMahto&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
-
----
 
 ## 📫 Connect With Me  
 
@@ -109,6 +103,4 @@ A sleek password manager with authentication & encryption.
 
 ---
 
-<p align="center">
-  ✨ _“First, solve the problem. Then, write the code. And if it works on the first try… check again, you probably missed a semicolon.”_ ✨
-</p>
+
