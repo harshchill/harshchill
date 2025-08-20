@@ -1,6 +1,6 @@
 <!-- Sexy Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Mahto%20👨‍💻&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡&descAlignY=65&descAlign=50" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Mahto%20&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡&descAlignY=65&descAlign=50" alt="banner"/>
 </p>
 
 # 👋 Hey, I'm Harsh Mahto  
