@@ -2,79 +2,96 @@
 
 🚀 **Full Stack Developer** | MERN, Next.js, Tailwind, React, Vite | Python & SQL Enthusiast  
 
-💻 Turning ideas into interactive, scalable, and beautiful web apps.  
-🎯 Always pushing limits — from hackathons to side projects.  
+💡 Passionate about building scalable apps, solving problems, and creating products people love.  
+🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
 
 ---
 
-## 🌟 Highlight Project – Buy Me a Chai ☕  
+## 🌟 Flagship Projects  
 
-[![Buy Me a Chai Preview](https://drive.google.com/uc?export=view&id=18mrzI7V0Fkno0GTiPu5xku3qOAqEpjOU)](https://get-me-a-chai-sepia.vercel.app/)  
+### 🗨️ Baate — Realtime Chat & Forum Platform  
+A **modern chat + discussion platform** with realtime channels & topic-based forums.  
+[![Project Preview](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](#)  
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
 
-A modern, minimal, and responsive donation platform inspired by *CodeWithHarry’s "Buy Me a Chai"* tutorial — but upgraded with my own twist, features, and design.  
-
-> **Stack:** Next.js, TailwindCSS, MongoDB, NextAuth.js  
-> **Features:** Authentication, real-time donations, responsive UI, secure backend  
-> **Role:** Complete development — from frontend to backend integration  
-
-🔗 **[Live Demo](https://get-me-a-chai-sepia.vercel.app/)** | 💻 **[Source Code](#)**  
-
-📱 **Scan to Visit:**  
-![QR Code](https://drive.google.com/uc?export=view&id=1c9xtSgA8c5Ngkic-QmlVDmTUym3cox_8)  
+> **Stack:** Next.js 15, React 19, Clerk Auth, Stream Chat, TailwindCSS 4  
+> **Features:** Auth with Clerk, realtime forums via Stream, clean responsive UI  
 
 ---
 
-## 🔥 About Me  
-- 🎓 **B.Tech CSE** @ AKS University, Satna (5th Sem, 2023–2027)  
-- 🏆 **Rank 1** in Thrixx Hackathon  
-- 💡 Core member of our university's developer group  
-- 🌱 Currently exploring **Next.js 14** & **AI-integrated apps**  
-- 📌 Passion: Building products people love & use  
+### 🔗 URL Shortener — Fast & Modern  
+A **Next.js + MongoDB powered service** to shorten URLs with speed & style.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://urlshort-gray.vercel.app/)  
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
+
+> **Stack:** Next.js 15, React 19, MongoDB, TailwindCSS 4  
+> **Features:** Custom short URLs, mobile-friendly UI, analytics ready, Vercel-ready  
 
 ---
 
-## 🛠️ Tech Arsenal  
+### ☕ Buy Me a Chai  
+A modern twist on the popular “Buy Me a Coffee” concept with a **full-stack Next.js app**.  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://get-me-a-chai-sepia.vercel.app/)  
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
-**Other Skills:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+> **Stack:** Next.js, MongoDB, Tailwind, NextAuth.js  
+> **Features:** Authentication, real-time donations, QR code sharing  
 
 ---
 
-## 🚀 More Projects  
-
-### 🔐 Password Manager (MERN Stack)  
-A secure and sleek password manager with authentication & encryption.  
-> **Stack:** MongoDB, Express, React, Node.js, Tailwind, NextAuth.js  
-
-**🔗 [View Project](#)** | **💻 [Source Code](#)**  
+### 🔐 Password Manager  
+A sleek **password manager** with secure auth and encryption.  
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Achievements  
 
+- 🥇 **Rank 1** in Thrixx Hackathon  
+- 💡 Core Member — University Developer Group  
+- 🌱 Exploring **Next.js 15 + AI-integrated apps**  
+- 📌 Consistently building **open source + hackathon projects**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats & Metrics  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HarshMahto&theme=radical&hide_border=true)  
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshMahto&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahto&layout=compact&theme=radical)  
 
 ---
 
+## 🏅 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=HarshMahto&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harsh-mahto-52b8a9295)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:harshmahto02@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mahto-52b8a9295)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmahto02@gmail.com)  
 
 ---
 
