@@ -10,7 +10,9 @@
 💡 Passionate about building scalable apps, solving problems, and creating products people love.  
 🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
 
-> ⚡ *“Jack of all trades”*  
+> ⚡ *“Jack of all trades”*
+> ![Profile Views](https://komarev.com/ghpvc/?username=harshchill&label=Profile%20Views&color=blue&style=for-the-badge)
+ 
 
 ---
 
