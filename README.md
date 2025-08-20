@@ -1,3 +1,8 @@
+<!-- Sexy Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Mahto%20👨‍💻&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡&descAlignY=65&descAlign=50" alt="banner"/>
+</p>
+
 # 👋 Hey, I'm Harsh Mahto  
 
 🚀 **Full Stack Developer** | MERN, Next.js, Tailwind, React, Vite | Python & SQL Enthusiast  
@@ -5,42 +10,41 @@
 💡 Passionate about building scalable apps, solving problems, and creating products people love.  
 🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
 
+> ⚡ *“I don’t push to main on Fridays… unless it’s production-ready 😉”*  
+
 ---
 
 ## 🌟 Flagship Projects  
 
-### 🗨️ Baate — Realtime Chat & Forum Platform  
-A **modern chat + discussion platform** with realtime channels & topic-based forums.  
-[![Project Preview](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](#)  
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
+### ☕ Get Me a Chai  
+A modern donation platform inspired by *Buy Me a Coffee* — built with **Next.js + MongoDB + NextAuth**.  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel)](https://get-me-a-chai-sepia.vercel.app/)  
 
-> **Stack:** Next.js 15, React 19, Clerk Auth, Stream Chat, TailwindCSS 4  
-> **Features:** Auth with Clerk, realtime forums via Stream, clean responsive UI  
+> **Features:** Auth, real-time donations, QR Code sharing, responsive UI  
+> **Stack:** Next.js, MongoDB, TailwindCSS, NextAuth.js  
 
 ---
 
-### 🔗 URL Shortener — Fast & Modern  
-A **Next.js + MongoDB powered service** to shorten URLs with speed & style.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://urlshort-gray.vercel.app/)  
+### 🗨️ Baate (baat-kr-lo) — Realtime Chat & Forum Platform  
+A **realtime chat + forum app** with Clerk Auth + Stream Channels.  
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
 
+> **Features:** Auth with Clerk, public topic-based forums, realtime chat  
+> **Stack:** Next.js 15, React 19, Clerk, Stream Chat, TailwindCSS 4  
+
+---
+
+### 🔗 URL Shortener  
+A **fast and modern short-link generator** with analytics-ready backend.  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://urlshort-gray.vercel.app/)  
+
+> **Features:** Custom short URLs, instant redirect, mobile-friendly UI  
 > **Stack:** Next.js 15, React 19, MongoDB, TailwindCSS 4  
-> **Features:** Custom short URLs, mobile-friendly UI, analytics ready, Vercel-ready  
-
----
-
-### ☕ Buy Me a Chai  
-A modern twist on the popular “Buy Me a Coffee” concept with a **full-stack Next.js app**.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://get-me-a-chai-sepia.vercel.app/)  
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
-
-> **Stack:** Next.js, MongoDB, Tailwind, NextAuth.js  
-> **Features:** Authentication, real-time donations, QR code sharing  
 
 ---
 
 ### 🔐 Password Manager  
-A sleek **password manager** with secure auth and encryption.  
+A sleek password manager with authentication & encryption.  
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
 
 ---
@@ -74,17 +78,27 @@ A sleek **password manager** with secure auth and encryption.
 
 ---
 
-## 📊 GitHub Stats & Metrics  
+## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HarshMahto&theme=radical&hide_border=true)  
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshMahto&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahto&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMahto&theme=radical&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshMahto&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahto&layout=compact&theme=radical&hide_border=true" alt="langs"/>
+</p>
 
 ---
 
 ## 🏅 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HarshMahto&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshMahto&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+</p>
 
 ---
 
@@ -95,4 +109,6 @@ A sleek **password manager** with secure auth and encryption.
 
 ---
 
-✨ _"Code. Create. Conquer."_  
+<p align="center">
+  ✨ _“Code. Create. Conquer.”_ ✨
+</p>
