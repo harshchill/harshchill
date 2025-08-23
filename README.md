@@ -27,7 +27,7 @@ A modern donation platform inspired by *Buy Me a Coffee* — built with **Next.j
 
 ### 🗨️ Baate (baat-kr-lo) — Realtime Chat & Forum Platform  
 A **realtime chat + forum app** with Clerk Auth + Stream Channels.  
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel)](baate-seven.vercel.app)
 
 > **Features:** Auth with Clerk, public topic-based forums, realtime chat  
 > **Stack:** Next.js 15, React 19, Clerk, Stream Chat, TailwindCSS 4  
