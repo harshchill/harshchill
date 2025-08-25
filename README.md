@@ -78,28 +78,27 @@ A sleek password manager with authentication & encryption.
 
 ---
 
-## 📊 GitHub Stats  
-
+##  My GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchill&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
+##  My Overall GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
 </p>
 
+##  Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchill&layout=compact&theme=radical&hide_border=true" alt="langs"/>
 </p>
 
 ---
 
-## 🏅 GitHub Trophies  
-
+##  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshchill&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
 </p>
-
 ---
 
 ## 📫 Connect With Me  
