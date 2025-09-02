@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Harsh Mahto  
 
-🚀 **Full Stack Developer** | MERN, Next.js, Tailwind, React, Vite | Python & SQL Enthusiast  
+🚀 **Full Stack Developer** | MERN, Next.js, Tailwind, React, Vite | Python | SQL  | Java | C
 
 💡 Passionate about building scalable apps, solving problems, and creating products people love.  
 🏆 Hackathon Winner | Open Source Contributor | Lifelong Learner  
