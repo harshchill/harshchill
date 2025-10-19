@@ -54,7 +54,16 @@ A sleek password manager with authentication & encryption.
 - 🥇 **Rank 1** in Thrixx Hackathon  
 - 💡 Core Member — University Developer Group  
 - 🌱 Exploring **Next.js 15 + AI-integrated apps**  
-- 📌 Consistently building **open source + hackathon projects**  
+- 📌 Consistently building **open source + hackathon projects**
+
+---
+
+### 🪶 Hacktoberfest Super Contributor Badge  
+<p align="center">
+  <a href="https://holopin.io/@harshchill">
+    <img src="https://holopin.me/harshchill" alt="@harshchill's Holopin Badges" />
+  </a>
+</p>
 
 ---
 
