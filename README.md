@@ -18,7 +18,7 @@
 
 ### 🔐 Vault — Semester Papers Manager
 A clean and efficient platform to organize, browse, and study previous semester papers. Focused UI, smart filters, and secure access. Built with the modern Next.js App Router and a tasteful emerald/teal aesthetic.  
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/harshchill/Vault)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel)](https://vault-paper.vercel.app/)
 
 > **Features:** Organize & browse past papers, smart filters & tags, fast search, study mode, secure access & authentication (as implemented in repo)  
 > **Stack:** Next.js (App Router), JavaScript, CSS — modern frontend with a focus on performance and UX
