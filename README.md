@@ -1,6 +1,6 @@
 <!-- Sexy Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Mahto&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡&descAlignY=65&descAlign=50" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harsh%20Mahto&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20⚡&descAlignY=65[...]"/>
 </p>
 
 # 👋 Hey, I'm Harsh Mahto  
@@ -16,12 +16,21 @@
 
 ## 🌟 Flagship Projects  
 
+### 🔐 Vault — Semester Papers Manager
+A clean and efficient platform to organize, browse, and study previous semester papers. Focused UI, smart filters, and secure access. Built with the modern Next.js App Router and a tasteful emerald/teal aesthetic.  
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/harshchill/Vault)
+
+> **Features:** Organize & browse past papers, smart filters & tags, fast search, study mode, secure access & authentication (as implemented in repo)  
+> **Stack:** Next.js (App Router), JavaScript, CSS — modern frontend with a focus on performance and UX
+
+---
+
 ### ☕ Get Me a Chai  
 A modern donation platform inspired by *Buy Me a Coffee* — built with **Next.js + MongoDB + NextAuth**.  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel)](https://get-me-a-chai-sepia.vercel.app/)  
 
 > **Features:** Auth, real-time donations, QR Code sharing, responsive UI  
-> **Stack:** Next.js, MongoDB, TailwindCSS, NextAuth.js  
+> **Stack:** Next.js, MongoDB, TailwindCSS, NextAuth.js
 
 ---
 
@@ -30,7 +39,7 @@ A **realtime chat + forum app** with Clerk Auth + Stream Channels.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel)](https://baate-seven.vercel.app/)
 
 > **Features:** Auth with Clerk, public topic-based forums, realtime chat  
-> **Stack:** Next.js 15, React 19, Clerk, Stream Chat, TailwindCSS 4  
+> **Stack:** Next.js 15, React 19, Clerk, Stream Chat, TailwindCSS 4
 
 ---
 
@@ -39,13 +48,7 @@ A **fast and modern short-link generator** with analytics-ready backend.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://urlshort-gray.vercel.app/)  
 
 > **Features:** Custom short URLs, instant redirect, mobile-friendly UI  
-> **Stack:** Next.js 15, React 19, MongoDB, TailwindCSS 4  
-
----
-
-### 🔐 Password Manager  
-A sleek password manager with authentication & encryption.  
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](#)  
+> **Stack:** Next.js 15, React 19, MongoDB, TailwindCSS 4
 
 ---
 
@@ -116,5 +119,3 @@ A sleek password manager with authentication & encryption.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmahto02@gmail.com)  
 
 ---
-
-
