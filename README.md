@@ -114,7 +114,7 @@ community   →  core member, university developer group
 <div align="center">
 
 <a href="https://holopin.io/@harshchill">
-  <img src="https://holopin.me/harshchill" alt="holopin badges" height="60"/>
+  <img src="https://holopin.me/harshchill" alt="holopin badges"/>
 </a>
 
 </div>
