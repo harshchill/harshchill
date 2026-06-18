@@ -1,141 +1,186 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0d1117&height=200&section=header&text=Harsh%20Mahto&fontSize=72&fontColor=e6edf3&animation=fadeIn&fontAlignY=55&desc=fullstack%20developer%20%E2%80%A2%20satna%2C%20india&descSize=15&descAlignY=78&descColor=8b949e" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=building+things+with+Next.js+%2B+TypeScript;open+source+%7C+hackathons+%7C+shipping;b.tech+cs+%40+aks+university+%E2%80%94+cgpa+8.4" alt="Typing SVG" />
-</a>
+<sub>VOL. III &nbsp;&nbsp;·&nbsp;&nbsp; SATNA, MADHYA PRADESH, INDIA &nbsp;&nbsp;·&nbsp;&nbsp; B.TECH CS · AKS UNIVERSITY &nbsp;&nbsp;·&nbsp;&nbsp; OPEN TO INTERNSHIPS</sub>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0d1117?style=flat&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/harsh-mahto-52b8a9295)
-[![Email](https://img.shields.io/badge/-email-0d1117?style=flat&logo=gmail&logoColor=58a6ff)](mailto:harshmahto02@gmail.com)
-[![GitHub](https://img.shields.io/badge/-github-0d1117?style=flat&logo=github&logoColor=58a6ff)](https://github.com/harshchill)
-![Profile Views](https://komarev.com/ghpvc/?username=harshchill&style=flat&color=58a6ff&labelColor=0d1117&label=views)
+---
+
+# Harsh Mahto
+
+<sub>Full-Stack Engineer &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Real-Time Systems</sub>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/harsh-mahto-52b8a9295"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff"/></a>
+&nbsp;
+<a href="mailto:harshmahto02@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff"/></a>
+&nbsp;
+<a href="https://github.com/harshchill"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=58a6ff"/></a>
+
+<br/>
 
 </div>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-**hey 👋 i'm harsh**
-
-fullstack dev from india, currently in my 3rd year of cs.
-i like shipping things that actually get used.
-
-- 🔭 working on ai-integrated fullstack apps
-- 🏫 b.tech cs @ aks university — cgpa **8.4**
-- 🏆 won a few hackathons, lost a few too
-- 🌱 lately into next.js 15 + supabase + typescript
-- 📬 reach me: **harshmahto02@gmail.com**
-
-<br clear="right"/>
-
----
-
-### 🛠 stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=orange)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-
-</div>
-
----
-
-### 📌 projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="63%" valign="top">
 
-**[🔐 Vault](https://vault-paper.vercel.app/)** — semester papers manager
+#### BRIEF
 
-pwa for aks students. 1k+ users, stress-tested at 12k+ requests. gamified contributions boosted engagement by 40%.
+Full-stack engineer in 3rd year Computer Science at AKS University, Satna. Specialises in real-time systems and scalable web architecture — ships products that reach production and get adopted.
 
-`next.js` `nextauth` `mongodb` `supabase`
+3× hackathon winner. Open-source contributor. Currently building with **Next.js 15**, **TypeScript**, and **Supabase**. Obsessed with measurable impact and clean, purposeful architecture.
 
-</td>
-<td width="50%" valign="top">
-
-**[🗨️ Baate](https://baate-seven.vercel.app/)** — realtime chat + forums
-
-websocket chat app with topic channels, clerk auth & auto channel provisioning.
-
-`next.js 15` `react 19` `clerk` `stream sdk`
+`harshmahto02@gmail.com`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="3%"></td>
+<td width="34%" valign="top">
 
-**[🏠 ProRent](https://github.com/harshchill)** — rental platform
-
-multi-role rental system (admin · vendor · customer). built in 24hrs — rank 10 / 90+ teams at odoo × gcet.
-
-`next.js` `postgresql` `prisma` `tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-**[☕ Get Me a Chai](https://get-me-a-chai-sepia.vercel.app/)** — donation platform
-
-creator support platform with real-time donations, oauth, and qr sharing.
-
-`next.js` `mongodb` `nextauth` `tailwind`
+```
+┌──────────────────────────┐
+│  FIELD NOTES             │
+├──────────────────────────┤
+│  status   open · 2025    │
+│  degree   B.Tech CS      │
+│  cgpa     8.4 / 10       │
+│  grad     exp. 2027      │
+├──────────────────────────┤
+│  wins     3 hackathons   │
+│  oss      6+ PRs merged  │
+│  users    1,800+ live    │
+└──────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-### 🎯 a few things
+#### STACK
+
+<div align="center">
+
+`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `Tailwind CSS`
+
+`PostgreSQL` &nbsp; `MongoDB` &nbsp; `Prisma ORM` &nbsp; `Supabase` &nbsp; `Redis / Upstash`
+
+`WebSockets` &nbsp; `Cloudflare` &nbsp; `Vercel` &nbsp; `Git` &nbsp; `Python` &nbsp; `Java` &nbsp; `SQL`
+
+</div>
+
+<br/>
+
+---
+
+#### FILED
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🔐 Vault](https://paper-vault.app/)** &nbsp; `PWA · Production`
+
+Academic resource platform for AKS University students. 1,800+ unique visitors, 260+ registered users. Gamified contribution leaderboard +40% engagement. Stress-tested to 12k+ requests — latency managed via Cloudflare analytics and Redis rate limiting.
+
+<sub>Next.js · NextAuth · MongoDB · Supabase · Cloudflare</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[🏠 ProRent](https://github.com/harshchill)** &nbsp; `Hackathon · 24hr`
+
+Multi-role rental platform — Admin, Vendor, Customer. Built in 24 hours as Team Lead at Odoo × GCET. **Rank 10 / 500+ teams.** Prisma ORM for relational inventory and booking management across all three roles.
+
+<sub>Next.js · PostgreSQL · Prisma · Tailwind CSS</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🗨️ Baate](https://baate-seven.vercel.app/)** &nbsp; `Realtime`
+
+Low-latency messaging via Stream SDK WebSockets — real-time channels, threads, rich media. Clerk auth synced with Stream tokens via custom middleware; automated channel provisioning for new users on signup.
+
+<sub>Next.js 15 · React 19 · Clerk · Stream SDK · WebSocket</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[☕ Get Me a Chai](https://get-me-a-chai-sepia.vercel.app/)** &nbsp; `Platform`
+
+Creator support and donation platform with real-time notifications, OAuth authentication, and QR code sharing for easy creator discovery.
+
+<sub>Next.js · MongoDB · NextAuth · Tailwind CSS</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+#### ON RECORD
 
 ```
-hackathons  →  SIH internal winner · rank 10 @ odoo × gcet · 1st @ thrixx
-open source →  hacktoberfest 2025 — 6+ PRs merged
-certs       →  microsoft: generative ai + machine learning fundamentals
-community   →  core member, university developer group
+SIH 2025       →  Selected to represent AKS University at Smart India Hackathon
+Odoo × GCET    →  Rank 10 / 500+ teams — 24-hour sprint, Team Lead
+Thrixx         →  1st place — AKS University internal hackathon
+Hacktoberfest  →  Super Contributor — 6+ PRs merged across global repos
+Google Gemini  →  Campus Ambassador — AKS University
+Microsoft      →  Certified: Generative AI Fundamentals · ML Fundamentals
+Community      →  Core member, University Developer Group
 ```
+
+<br/>
+
+---
+
+#### METRICS
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e"/>
+&nbsp;&nbsp;
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchill&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e"/>
+
+</div>
+
+<br/>
+
+---
+
+#### CREDENTIALS
 
 <div align="center">
 
 <a href="https://holopin.io/@harshchill">
-  <img src="https://holopin.me/harshchill" alt="holopin badges"/>
+  <img src="https://holopin.me/harshchill" alt="@harshchill holopin board"/>
 </a>
 
 </div>
 
----
-
-### 📊 github stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchill&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshchill&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-  &nbsp; <sub><i>open to internships · collabs · hackathons. always down to build something cool.</i></sub>
+
+<sub>harshmahto02@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/harsh-mahto-52b8a9295">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/harshchill">github</a></sub>
+
+<br/>
+
+<sub><i>open to internships · collaborations · hackathons · anything worth building</i></sub>
+
 </div>
