@@ -1,77 +1,25 @@
-<div align="center">
-
-<sub>VOL. III &nbsp;&nbsp;·&nbsp;&nbsp; SATNA, MADHYA PRADESH, INDIA &nbsp;&nbsp;·&nbsp;&nbsp; B.TECH CS · AKS UNIVERSITY &nbsp;&nbsp;·&nbsp;&nbsp; OPEN TO INTERNSHIPS</sub>
-
-<br/>
-
----
-
-# Harsh Mahto
-
-<sub>Full-Stack Engineer &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Real-Time Systems</sub>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/harsh-mahto-52b8a9295"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff"/></a>
-&nbsp;
-<a href="mailto:harshmahto02@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff"/></a>
-&nbsp;
-<a href="https://github.com/harshchill"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=58a6ff"/></a>
-
-<br/>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="63%" valign="top">
-
-#### BRIEF
-
-Full-stack engineer in 3rd year Computer Science at AKS University, Satna. Specialises in real-time systems and scalable web architecture — ships products that reach production and get adopted.
-
-3× hackathon winner. Open-source contributor. Currently building with **Next.js 15**, **TypeScript**, and **Supabase**. Obsessed with measurable impact and clean, purposeful architecture.
-
-`harshmahto02@gmail.com`
-
-</td>
-<td width="3%"></td>
-<td width="34%" valign="top">
-
-```
-┌──────────────────────────┐
-│  FIELD NOTES             │
-├──────────────────────────┤
-│  status   open · 2025    │
-│  degree   B.Tech CS      │
-│  cgpa     8.4 / 10       │
-│  grad     exp. 2027      │
-├──────────────────────────┤
-│  wins     3 hackathons   │
-│  oss      6+ PRs merged  │
-│  users    1,800+ live    │
-└──────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-#### STACK
+<!-- ================================================================
+     HARSH MAHTO — GitHub Profile README
+     Username: harshchill | Theme: Ocean Blue Glassmorphism
+     ================================================================ -->
 
 <div align="center">
 
-`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `Tailwind CSS`
+<!-- ── HEADER BANNER ── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:023e8a,70:0077b6,100:00b4d8&height=200&section=header&text=Harsh%20Mahto&fontSize=54&fontColor=caf0f8&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%203%C3%97%20Hackathon%20Winner&descSize=17&descAlignY=60&animation=fadeIn" alt="header"/>
 
-`PostgreSQL` &nbsp; `MongoDB` &nbsp; `Prisma ORM` &nbsp; `Supabase` &nbsp; `Redis / Upstash`
+<br/>
 
-`WebSockets` &nbsp; `Cloudflare` &nbsp; `Vercel` &nbsp; `Git` &nbsp; `Python` &nbsp; `Java` &nbsp; `SQL`
+<!-- ── TYPING ANIMATION ── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=48CAE4&center=true&vCenter=true&width=490&lines=Building+AI-powered+tools+%F0%9F%A4%96;Next.js+%C2%B7+Python+%C2%B7+LLM+Integration;3%C3%97+Hackathon+Winner+%F0%9F%8F%86;Hacktoberfest+Super+Contributor+%F0%9F%8C%9F;Shipping+products+people+actually+use)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ── SOCIAL LINKS ── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-mahto)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmahto02@gmail.com)
+[![Vault PWA](https://img.shields.io/badge/paper--vault.app-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://paper-vault.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshchill&color=00b4d8&style=for-the-badge&label=Profile+Views)](https://github.com/harshchill)
 
 </div>
 
@@ -79,108 +27,119 @@ Full-stack engineer in 3rd year Computer Science at AKS University, Satna. Speci
 
 ---
 
-#### FILED
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🔐 Vault](https://paper-vault.app/)** &nbsp; `PWA · Production`
-
-Academic resource platform for AKS University students. 1,800+ unique visitors, 260+ registered users. Gamified contribution leaderboard +40% engagement. Stress-tested to 12k+ requests — latency managed via Cloudflare analytics and Redis rate limiting.
-
-<sub>Next.js · NextAuth · MongoDB · Supabase · Cloudflare</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[🏠 ProRent](https://github.com/harshchill)** &nbsp; `Hackathon · 24hr`
-
-Multi-role rental platform — Admin, Vendor, Customer. Built in 24 hours as Team Lead at Odoo × GCET. **Rank 10 / 500+ teams.** Prisma ORM for relational inventory and booking management across all three roles.
-
-<sub>Next.js · PostgreSQL · Prisma · Tailwind CSS</sub>
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🗨️ Baate](https://baate-seven.vercel.app/)** &nbsp; `Realtime`
-
-Low-latency messaging via Stream SDK WebSockets — real-time channels, threads, rich media. Clerk auth synced with Stream tokens via custom middleware; automated channel provisioning for new users on signup.
-
-<sub>Next.js 15 · React 19 · Clerk · Stream SDK · WebSocket</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[☕ Get Me a Chai](https://get-me-a-chai-sepia.vercel.app/)** &nbsp; `Platform`
-
-Creator support and donation platform with real-time notifications, OAuth authentication, and QR code sharing for easy creator discovery.
-
-<sub>Next.js · MongoDB · NextAuth · Tailwind CSS</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
+```text
+🚀  Full-stack dev shipping production-grade apps with real user adoption
+🤖  AI engineer — built a PR review agent ~95% cheaper than CodeRabbit
+🏆  3× Hackathon Winner | Google Gemini Campus Ambassador @ AKS University
+🌐  Vault PWA: 1,800+ users | Hacktoberfest 2025 Super Contributor (6+ PRs)
+```
 
 ---
 
-#### ON RECORD
-
-```
-SIH 2025       →  Selected to represent AKS University at Smart India Hackathon
-Odoo × GCET    →  Rank 10 / 500+ teams — 24-hour sprint, Team Lead
-Thrixx         →  1st place — AKS University internal hackathon
-Hacktoberfest  →  Super Contributor — 6+ PRs merged across global repos
-Google Gemini  →  Campus Ambassador — AKS University
-Microsoft      →  Certified: Generative AI Fundamentals · ML Fundamentals
-Community      →  Core member, University Developer Group
-```
-
-<br/>
-
----
-
-#### METRICS
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e"/>
+`Frontend`
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
+
+`Backend & AI`
+
+[![Backend](https://skillicons.dev/icons?i=python,nodejs,flask,express,java&theme=dark)](https://skillicons.dev)
+
+`Databases & Tools`
+
+[![Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,git,vercel,cloudflare,supabase&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00b4d8&icon_color=0077b6&text_color=ffffff&rank_icon=github"/>
 &nbsp;&nbsp;
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchill&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=harshchill&hide_border=true&background=00000000&ring=00b4d8&fire=0077b6&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshchill&layout=compact&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=ffffff&langs_count=7"/>
 
 </div>
 
-<br/>
-
 ---
 
-#### CREDENTIALS
+## 🛠 Featured Projects
 
 <div align="center">
 
-<a href="https://holopin.io/@harshchill">
-  <img src="https://holopin.me/harshchill" alt="@harshchill holopin board"/>
-</a>
+| &nbsp; | Project | Stack | Impact |
+|:---:|---------|-------|--------|
+| 🤖 | **[Nemesis](https://github.com/harshchill/Nemesis)** — AI PR Review Agent | Python · Flask · LangGraph · Groq | Caught a prod-crashing bug · **~95% cheaper** than CodeRabbit |
+| 📚 | **[Vault](https://paper-vault.app)** — Academic Resource PWA &nbsp;·&nbsp; [Code](https://github.com/harshchill/Vault) | Next.js · NextAuth · MongoDB · Supabase | **1,800+ visitors** · 260+ students · **+40% engagement** |
+| 🏠 | **[PRORENT](https://pro-rent-five.vercel.app/)** — Rental Platform &nbsp;·&nbsp; [Code](https://github.com/harshchill/boiler-plate) | Next.js · PostgreSQL · Prisma · Tailwind | **Rank 10 / 500+** teams — Odoo × GCET 24-Hour Hackathon |
 
 </div>
 
-<br/>
-
 ---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<sub>harshmahto02@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/harsh-mahto-52b8a9295">linkedin</a> &nbsp;·&nbsp; <a href="https://github.com/harshchill">github</a></sub>
+<img src="https://github-profile-trophy.vercel.app/?username=harshchill&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+
+</div>
+
+---
+
+```text
+🥇  1st Place          — Thrixx Hackathon
+🇮🇳  National Selection — Smart India Hackathon 2025 (AKS University rep)
+#10  Rank 10 / 500+    — Odoo × GCET 24-Hour Hackathon
+🌍  Super Contributor  — Hacktoberfest 2025 (6+ merged PRs across global repos)
+🤝  Campus Ambassador  — Google Gemini @ AKS University
+📜  Certified          — Microsoft: Generative AI + Machine Learning
+```
+
+---
+
+## 🏅 Open Source Badges
+
+<div align="center">
+
+[![Holopin Board](https://holopin.me/harshchill)](https://holopin.io/@harshchill)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<!-- 
+  ⚙️ SETUP REQUIRED — generate the snake SVG once via GitHub Action.
+  Add .github/workflows/snake.yml from: https://github.com/Platane/snk
+  It auto-commits the SVG to an `output` branch; then this embed just works.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshchill/harshchill/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshchill/harshchill/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/harshchill/harshchill/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
 
 <br/>
 
-<sub><i>open to internships · collaborations · hackathons · anything worth building</i></sub>
-
+<!-- ── FOOTER BANNER ── -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0d1117&height=100&section=footer"/>
 </div>
