@@ -62,7 +62,7 @@
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshchill&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00b4d8&icon_color=0077b6&text_color=ffffff&rank_icon=github"/>
 &nbsp;&nbsp;
-<img height="165em" src="https://streak-stats.demolab.com/?user=harshchill&hide_border=true&background=00000000&ring=00b4d8&fire=0077b6&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=harshchill&hide_border=true&background=00000000&ring=00b4d8&fire=0077b6&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff&currStreak=ffffff&stats=ffffff"/>
 
 <br/><br/>
 
